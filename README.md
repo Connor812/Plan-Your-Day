@@ -12,7 +12,7 @@ Plan your day is a website where you can plan your business day accordingly. You
 
 ## Where To Find
 
-Link: 
+Link: [Plan-Your-Day](https://connor812.github.io/Plan-Your-Day/)
 
 ## How To Use
 
