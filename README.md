@@ -24,6 +24,9 @@ This application was created by Connor. Huge shout out to the University of Toro
 
 ## License
 
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
 ## Screenshot
 
-![alt]()
+![alt](./assets/images/plan-your-day.png)
